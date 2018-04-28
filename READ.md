@@ -6,6 +6,10 @@ This is the project for creating big.txt using for [Norvig’s spelling correcto
 
 You need to install [Jave 8 or later](https://java.com/zh_TW/download/)
 
+## Running the data
+
+you can use [crawler4j](https://github.com/yasserg/crawler4j) to crawl your own data or [example](https://drive.google.com/file/d/1znldgLNSJmqrnqN8Hi5iH8bnlUwdujor/view?usp=sharing) here
+
 ## Running the tests
 
 you can direct use the jar file in targee. the first parameter will be the folder which contain HTML files. The output is big.txt 
